@@ -1,0 +1,3 @@
+[submodule "code/sbox-submodule-minimal"]
+	path = code/sbox-submodule-minimal
+	url = https://github.com/ogniK5377/sbox-submodule-minimal.git
